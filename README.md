@@ -1,1 +1,1 @@
-# fun-php
+Playing with PHP
